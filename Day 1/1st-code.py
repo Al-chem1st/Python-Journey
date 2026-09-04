@@ -1,1 +1,1 @@
-print("Hello, World!, Search for a better time to start programming")
+print("Hello, World!, Search a worst time to start programming")
