@@ -17,5 +17,6 @@ friend = 10
 # friend **= 2
 
 #friend = friend % 3       (its quite deffent its means the remainder when divided by 3)    # friend = friend % 3 (friend = friend mod 3)  (mod means remainder)
-friend %= 3
+# friend %= 3
+
 print(friend)
